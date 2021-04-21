@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<behavior name="unit_1_behavior">
+
+	<executable package_path="unit_1_flexbe_behaviors.unit_1_behavior_sm" class="unit_1_behaviorSM" />
+	<tagstring></tagstring>
+	<author>Gerard Harkema</author>
+	<date>Wed Apr 21 2021</date>
+	<description>
+		Het gedrag van unit 1
+	</description>
+
+
+	<!-- Contained Behaviors -->
+
+	<!-- Available Parameters -->
+
+</behavior>
